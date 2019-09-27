@@ -10,7 +10,7 @@ function App() {
         <p>
           Hello, React world!
         </p>
-        <p>This is crazy</p>
+        <p>Deployed with Travis CI</p>
         <a
           className="App-link"
           href="https://reactjs.org"
